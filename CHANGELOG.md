@@ -1,6 +1,10 @@
 StatsD InfluxDB backend - CHANGELOG
 -----------------------------------
 
+## v0.8.0 (2016-10-01)
+
+* Modified `defaultRetentionPolicy` to work with new databases created in influxDb v1.0
+
 ## v0.6.0 (2015-06-23)
 
 * Initial InfluxDB 0.9 API support (#14, #17)
